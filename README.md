@@ -1,4 +1,4 @@
-# Linear Regression Model on Airbnb Pricing for Clark County Nevada
+# Airbnb Pricing for Clark County Nevada
 
 ## Overview:
 Airbnb, Inc. was created in 2008 as Air Bed and Breakfast Inc. as an online marketplace for people to rent and book accommodations (Bloomberg, 2018). The Center for Business and Economic Research at the University of Nevada- Las Vegas states that “the driving force” of the Southern Nevada economy historically has been tourism as it “supports 32% of jobs in the region and generates more than $9.7 billion in gaming revenue to Clark County's economy” (UNLV, 2021). Tourism is a vital part of the economy in Clark County. The ability to properly price and anticipate future pricing of rentals will contribute to residents continuing to support the yearly tourism lodging needs. 
